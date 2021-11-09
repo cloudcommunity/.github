@@ -16,7 +16,11 @@ Here is where to find and FOLLOW us on social media:
 - [LinkedIn organization](https://www.linkedin.com/company/cloud-study-network/)
 - [Facebook page](https://www.facebook.com/CloudStudyNetwork/)
 - [Twitter](https://twitter.com/CloudStudyNet)
+- [Reddit](https://www.reddit.com/r/CloudStudyNetwork/)
+- [Instagram](https://www.instagram.com/cloudstudynetwork/)
 - [Twitch](https://www.twitch.tv/cloudstudynetwork)
+- [Telegram channel](https://t.me/CloudStudyNetwork)
+- [Clubhouse club](https://www.clubhouse.com/club/cloud-study-network)
 - [SlideShare](https://www.slideshare.net/CloudStudyNetwork)
 
 We also have a [**weekly newsletter**](https://cloudstudynet.substack.com/welcome), where we cover recent cloud related news, upcoming meetups and conferences, past event's recordings and sharing goodies (freebies & discounts) provided to our community by sponsors & partners. [**SUBSCRIBE**](https://cloudstudynet.substack.com/welcome) to stay in the know of what's going on in the cloud world!
