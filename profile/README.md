@@ -24,3 +24,5 @@ Here is where to find and FOLLOW us on social media:
 - [SlideShare](https://www.slideshare.net/CloudStudyNetwork)
 
 We also have a [**weekly newsletter**](https://cloudstudynet.substack.com/welcome), where we cover recent cloud related news, upcoming meetups and conferences, past event's recordings and sharing goodies (freebies & discounts) provided to our community by sponsors & partners. [**SUBSCRIBE**](https://cloudstudynet.substack.com/welcome) to stay in the know of what's going on in the cloud world!
+
+At last but not least enjoy our repositories! If you'll find a bug or will have a suggestion, then feel free to contribute by either submitting a pull request or opening an issue in the corresponding repository.
