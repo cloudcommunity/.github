@@ -12,6 +12,7 @@ Here are our chat spaces, feel free to JOIN:
 - [Facebook group](https://www.facebook.com/groups/cloudstudynetwork)
 
 Here is where to find and FOLLOW us on social media:
+- [Meetup](https://www.meetup.com/Cloud-Study-Network/)
 - [YouTube channel](https://bit.ly/CloudStudyNetYT)
 - [LinkedIn organization](https://www.linkedin.com/company/cloud-study-network/)
 - [Facebook page](https://www.facebook.com/CloudStudyNetwork/)
