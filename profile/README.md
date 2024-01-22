@@ -2,8 +2,6 @@
 
 **Cloud Study Network** is a global community of 8000+ enthusiasts interested in cloud native & devops technologies.
 
-Everyone can JOIN our organization at GitHub using this self-service link: [invite2github.herokuapp.com](https://invite2github.herokuapp.com/). After you've joined the organization go into membership settings and [make your profile publicly visible](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership) if you want to show your affiliation with the Cloud Study Network community.
-
 We are currently using Meetup for community events, make sure to JOIN it to stay updated on upcoming webinars, talks and community calls:
 - [Meetup group](https://www.meetup.com/Cloud-Study-Network/)
 
