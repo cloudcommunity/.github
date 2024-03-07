@@ -1,6 +1,6 @@
 # Welcome to Cloud Study Network 👋
 
-**Cloud Study Network** is a global community of 8000+ enthusiasts interested in cloud native & devops technologies.
+**[Cloud Study Network](https://cloudstudy.net/)** is a global community of 8000+ enthusiasts interested in cloud native & devops technologies.
 
 We are currently using Meetup for community events, make sure to JOIN it to stay updated on upcoming webinars, talks and community calls:
 - [Meetup group](https://www.meetup.com/Cloud-Study-Network/)
