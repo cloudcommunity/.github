@@ -24,7 +24,7 @@ Here is where to find and FOLLOW us on social media:
 - [Clubhouse club](https://www.clubhouse.com/club/cloud-study-network)
 - [SlideShare](https://www.slideshare.net/CloudStudyNetwork)
 
-We also have a [**newsletter**](https://cloudstudynet.substack.com/welcome), where we cover recent cloud related news, upcoming meetups and conferences, past event's recordings and sharing goodies (freebies & discounts) provided to our community by sponsors & partners. [**SUBSCRIBE**](https://cloudstudynet.substack.com/welcome) to stay in the know of what's going on in the cloud world!
+We also have a weekly [**newsletter**](https://cloudstudynet.substack.com/welcome), where we cover recent cloud related news, upcoming meetups and conferences, past event's recordings and sharing goodies (freebies & discounts) provided to our community by sponsors & partners. [**SUBSCRIBE**](https://cloudstudynet.substack.com/welcome) to stay in the know of what's going on in the cloud world!
 
 Everyone can JOIN our organization at GitHub using this self-service link: [cloudstudy.net/invite2github](https://cloudstudy.net/invite2github). After you've joined the organization go into membership settings and [make your profile publicly visible](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership) to show your affiliation with the Cloud Study Network community.
 
