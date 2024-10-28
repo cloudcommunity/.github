@@ -8,6 +8,7 @@ We announce our **upcoming events** on the following platforms to keep you infor
 - [Meetup](https://www.meetup.com/Cloud-Study-Network/)
 - [Eventbrite](https://www.eventbrite.com/o/cloud-study-network-26938405029)
 - [LinkedIn events](https://www.linkedin.com/company/cloud-study-network/events/)
+- [Facebook events](https://www.facebook.com/CloudStudyNetwork/events)
 
 Here are our **chat spaces**, feel free to JOIN:
 - [Telegram group](https://t.me/CloudStudyNet) (follow the instructions in the channel to proceed to the right place - bot protection!)
