@@ -11,6 +11,7 @@ We announce our **upcoming events** on the following platforms to keep you infor
 - [Facebook events](https://www.facebook.com/CloudStudyNetwork/events)
 
 Here are our **chat spaces**, feel free to JOIN:
+- [GitHub discussions](https://github.com/orgs/cloudcommunity/discussions)
 - [Telegram group](https://t.me/CloudStudyNet) (follow the instructions in the channel to proceed to the right place - bot protection!)
 - [Discord server](https://cloudstudy.net/discord)
 - [Slack space](http://cloudstudy.net/slack)
