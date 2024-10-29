@@ -22,7 +22,7 @@ Here is where to find and FOLLOW us on **social media**:
 - [YouTube channel](https://bit.ly/CloudStudyNetYT)
 - [LinkedIn organization](https://www.linkedin.com/company/cloud-study-network/)
 - [Facebook page](https://www.facebook.com/CloudStudyNetwork/)
-- [Twitter](https://twitter.com/CloudStudyNet)
+- [X (formerly Twitter)](https://x.com/CloudStudyNet "Cloud Study Network on X (formerly Twitter)")
 - [Reddit](https://www.reddit.com/r/CloudStudyNetwork/)
 - [Instagram](https://www.instagram.com/cloudstudynetwork/)
 - [Twitch](https://www.twitch.tv/cloudstudynetwork)
