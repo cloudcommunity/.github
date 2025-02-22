@@ -2,7 +2,7 @@
 
 **[Cloud Study Network](https://cloudstudy.net/)** is a global community of currently 9000+ enthusiasts interested in cloud native & devops technologies.
 
-Everyone can **JOIN** our organization at GitHub using this self-service link: [cloudstudy.net/invite2github](https://cloudstudy.net/invite2github). After you've joined the organization go into membership settings and [make your profile publicly visible](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership) to show your affiliation with the Cloud Study Network community.
+Everyone can **JOIN** our organization at GitHub using this self-service link: [invite.cloudstudy.net](https://invite.cloudstudy.net/). After you've joined the organization go into membership settings and [make your profile publicly visible](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership) to show your affiliation with the Cloud Study Network community.
 
 We announce our **upcoming events** on the following platforms to keep you informed about webinars, talks, and community calls. Make sure to join us there to stay updated:
 - [Meetup](https://www.meetup.com/Cloud-Study-Network/ "Cloud Study Network on Meetup")
